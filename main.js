@@ -214,7 +214,7 @@ window.addEventListener('keydown', keyCode, true,)
     }
 
     window.onload = function () {
-        twominutes = 15;
+        twominutes = 30;
         z = document.querySelector("#timerel");
         startTimer(twominutes,z)
     
